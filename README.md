@@ -1,8 +1,6 @@
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/robinboening/alfredapp-starface`
-
-1. Just open the file `starface.alfredworkflow` with Alfredapp.
+1. Just download and open the file `starface.alfredworkflow`: https://github.com/robinboening/alfredapp-starface/blob/master/starface.alfredworkflow?raw=true
 
 ## Configuration
 
